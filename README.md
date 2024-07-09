@@ -1,2 +1,2 @@
 # encriptador
-encriptador de texto con js
+Encriptador de texto con js
