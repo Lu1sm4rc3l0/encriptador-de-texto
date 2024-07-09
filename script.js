@@ -29,7 +29,7 @@ function messageInterval() {
     }, 1000 ); 
 }
 
-// Eliminando Acentos y Carácteres especiales
+// Eliminando Acentos y Caracteres especiales
 
 function fixingText(text) {
     
